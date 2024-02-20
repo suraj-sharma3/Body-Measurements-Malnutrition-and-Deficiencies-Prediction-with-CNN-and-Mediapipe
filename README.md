@@ -3,4 +3,4 @@ In this project, I've developed a Web App that takes the image of a baby aged be
 
 Link to download all 4 CNN Models: https://drive.google.com/drive/folders/1cs15Qro0dWEzQjHrG8VYZt88gnFseBIv?usp=sharing
 Link to download all 4 Datasets: https://drive.google.com/file/d/1cFt6cv7fn3AqziASZa2rxkzNaz6EAOaa/view?usp=sharing
-Link to download CSV datasets for predicting Malnutrition Severity : https://drive.google.com/file/d/1-pXs1mLGkyK4vB2xTPK-IsJy--J4rdah/view?usp=sharing
+Link to download CSV datasets for predicting Malnutrition Severity: https://drive.google.com/file/d/1-pXs1mLGkyK4vB2xTPK-IsJy--J4rdah/view?usp=sharing
